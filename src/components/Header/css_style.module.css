@@ -1,0 +1,42 @@
+.heroSection{
+    width: 100%;
+    height: 100vh;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:1rem 6rem;
+}
+
+.logoSection{
+    display:flex;
+    gap:0.5rem;
+}
+.attributes{
+    display:flex;
+    gap:2rem;
+    font-weight:600;
+}
+.list{
+    list-style-type:none;
+}
+.btn1{
+    padding:0.8rem;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-weight:600;
+    color:#fff;
+    background-color: #2563EB;
+}
+h2{
+    font-size:48px;
+    font-weight:800;
+}
+.heroHeading1{
+    color:black;
+}
+.heroHeading2{
+    color:rgb(190, 18, 60);
+}
